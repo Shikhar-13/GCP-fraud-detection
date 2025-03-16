@@ -1,3 +1,4 @@
+import base64 
 from google.cloud import bigquery
 from flask import Flask, request, jsonify
 import json
